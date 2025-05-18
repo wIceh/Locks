@@ -1,0 +1,8 @@
+name: Locks
+version: '1.0.0'
+main: me.wiceh.locks.Locks
+api-version: '1.21'
+authors: [ wIceh ]
+commands:
+  lock:
+    aliases: [locks]
